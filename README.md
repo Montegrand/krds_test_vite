@@ -4,4 +4,4 @@
 
 KRDS React + Vite
 
-[https://montegrand.github.io/krds_test_vite](https://montegrand.github.io/krds_test_vite/){target="_blank"}
+[https://montegrand.github.io/krds_test_vite](https://montegrand.github.io/krds_test_vite/){: target="_blank"}
