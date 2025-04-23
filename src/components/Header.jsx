@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
@@ -147,9 +148,9 @@ function Header() {
               </div>
               <div className="header-branding">
                 <h2 className="logo">
-                  <a href="/">
+                  <Link to="/">
                     <span className="sr-only">KRDS - Korea Design System</span>
-                  </a>
+                  </Link>
                 </h2>
                 <div className="header-actions">
                   <button
