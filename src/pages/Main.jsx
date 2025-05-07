@@ -1,5 +1,5 @@
 import Accordion from "@/components/Accordion";
-import Calendar from "@/components/CalendarRange";
+import Calendar from "@/components/Calendar";
 import Tag from "@/components/Tag";
 import { Link } from "react-router-dom";
 
@@ -33,7 +33,7 @@ export default function Main() {
           <Accordion items={Accordion1Cont}/>
         </div>
         <div style={{marginTop:'30px',}}>
-          <CalendarRange />
+          <Calendar />
         </div>
         <div style={{marginTop:'40px'}}>
             <Link to={"/Menu1"}>Menu1</Link>
