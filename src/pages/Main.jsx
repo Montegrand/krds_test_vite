@@ -1,5 +1,5 @@
 import Accordion from "@/components/Accordion";
-import Calendar from "@/components/Calendar";
+import Calendar from "@/components/CalendarRange";
 import Tag from "@/components/Tag";
 import { Link } from "react-router-dom";
 
