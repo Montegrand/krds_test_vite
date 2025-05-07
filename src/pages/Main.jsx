@@ -33,7 +33,7 @@ export default function Main() {
           <Accordion items={Accordion1Cont}/>
         </div>
         <div style={{marginTop:'30px',}}>
-          <Calendar />
+          <CalendarRange />
         </div>
         <div style={{marginTop:'40px'}}>
             <Link to={"/Menu1"}>Menu1</Link>
